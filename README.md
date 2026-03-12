@@ -64,55 +64,11 @@ SEAGuard is available as **two complementary products**:
 
 ### Web Platform
 
-An interactive dashboard designed for regional situational awareness and institutional use.
-
-**Real-Time Disaster Monitoring**
-| Feature | Description |
-|---|---|
-| **Active Zones Map** | Interactive visualization of disaster zones categorized as Evacuation, Caution, and Danger |
-| **Global & Local Alerts** | Real-time push notifications and alerts for ongoing and incoming hazards |
-| **Risk Forecasts** | Data-driven predictions for upcoming environmental risks across the ASEAN region |
-
-**Emergency Resources**
-| Feature | Description |
-|---|---|
-| **Global Emergency Contacts** | Quick access to maritime and local emergency services across all ASEAN countries |
-| **AI Chatbot Assistant** | 24/7 intelligent assistant for safety queries and emergency guidance |
-| **Survival Guides** | Comprehensive, disaster-specific survival instructions available offline |
-
-**Localization & Accessibility**
-| Feature | Description |
-|---|---|
-| **Multi-language Support** | Fully localized in English, Bahasa Indonesia, Filipino, Thai, Vietnamese, Malay, Burmese, Khmer, and Lao |
-| **Personalized Setup** | Personalized experience based on the user's location and preferred language |
+An interactive dashboard for regional situational awareness. It displays an **Active Zones Map** with real-time disaster zones (Evacuation, Caution, Danger), AI-powered **risk forecasts** for floods and landslides, and centralized **early warning alerts**. Users also get access to an **AI Chatbot**, offline survival guides, and emergency contacts — all in 9 ASEAN languages.
 
 ### Mobile App
 
-A location-aware companion app for on-the-ground emergency support.
-
-**Smart Evacuation**
-| Feature | Description |
-|---|---|
-| **Nearest Safe Zones** | Automatically detects and suggests the closest hospitals, shelters, and assembly points |
-| **AR-Guided Navigation** | Immersive AR navigation paths (Viro AR) to guide users to safety in real-time |
-
-**Disaster Simulator**
-| Feature | Description |
-|---|---|
-| **AR Simulator** | Immersive AR experience to visualize disaster scenarios in a safe environment |
-| **AI Voice Guide** | Interactive real-time assistant powered by Gemini AI providing step-by-step survival guidance |
-| **Quiz Gamification** | Interactive quizzes to test and reinforce disaster preparedness knowledge |
-
-**Community Reports**
-| Feature | Description |
-|---|---|
-| **Crowdsourced Safety** | Real-time localized feeds of disasters reported by nearby users |
-| **AI Hazard Scanner** | Snap a photo and let AI automatically detect hazard level and water depth for accurate reporting |
-
-**Multilingual Support**
-| Feature | Description |
-|---|---|
-| **All ASEAN Languages** | Fully localized in Indonesian, Thai, Vietnamese, Malay, Filipino, Khmer, Lao, and more — so no community is left behind |
+A location-aware companion app for on-the-ground emergency support. It features **AR-Guided Navigation** to the nearest safe zones, and a **Disaster Simulator** with an AI Voice Guide (Gemini) and quiz gamification for preparedness training. Users can submit **Community Reports** with AI-powered hazard scanning from photos, and receive crowdsourced real-time alerts from nearby users.
 
 ---
 

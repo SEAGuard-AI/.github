@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo -->
-<img src="../.github/assets/logo.png" alt="SEAGuard Logo" width="180" />
+<img src="assets/logo.png" alt="SEAGuard Logo" width="180" />
 
 <h1>SEAGuard</h1>
 
@@ -138,7 +138,7 @@ SEAGuard is architected as a distributed system with clear separation between th
 
 <!-- Architecture Diagram -->
 <div align="center">
-  <img src="../.github/assets/architecture.png" alt="SEAGuard System Architecture" width="700"/>
+  <img src="assets/architecture.png" alt="SEAGuard System Architecture" width="700"/>
   <br/>
   <em>Figure: SEAGuard System Architecture</em>
 </div>
@@ -173,27 +173,27 @@ Built with dedication by **Team LabtekV** for Borneo Hackwknd.
 <table>
   <tr>
     <td align="center">
-      <img src="../.github/assets/team/randy.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Randy Verdian"/><br/>
+      <img src="assets/team/randy.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Randy Verdian"/><br/>
       <strong>Randy Verdian</strong><br/>
       <em>Team Leader</em>
     </td>
     <td align="center">
-      <img src="../.github/assets/team/althariq.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Muhammad Althariq Fairuz"/><br/>
+      <img src="assets/team/althariq.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Muhammad Althariq Fairuz"/><br/>
       <strong>Muhammad Althariq Fairuz</strong><br/>
       <em>Member</em>
     </td>
     <td align="center">
-      <img src="../.github/assets/team/olivia.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Olivia Christy Lismanto"/><br/>
+      <img src="assets/team/olivia.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Olivia Christy Lismanto"/><br/>
       <strong>Olivia Christy Lismanto</strong><br/>
       <em>Member</em>
     </td>
     <td align="center">
-      <img src="../.github/assets/team/saad.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Saad Abdul Hakim"/><br/>
+      <img src="assets/team/saad.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Saad Abdul Hakim"/><br/>
       <strong>Saad Abdul Hakim</strong><br/>
       <em>Member</em>
     </td>
     <td align="center">
-      <img src="../.github/assets/team/shafiq.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Shafiq Irvansyah"/><br/>
+      <img src="assets/team/shafiq.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Shafiq Irvansyah"/><br/>
       <strong>Shafiq Irvansyah</strong><br/>
       <em>Member</em>
     </td>

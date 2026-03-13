@@ -21,6 +21,15 @@
 
 ---
 
+## Report and Video
+
+| | Link |
+|---|---|
+| **Report** | Coming soon |
+| **Demo Video** | Coming soon |
+
+---
+
 ## Problem Statement
 
 Southeast Asia is one of the most disaster-prone regions in the world. The ASEAN region faces escalating threats from hydrometeorological hazards — particularly **floods, storms, and landslides** — that are intensifying due to climate change.

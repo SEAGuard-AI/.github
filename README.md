@@ -129,29 +129,29 @@ Built with dedication by **Team LabtekV** for Borneo Hackwknd.
 <table>
   <tr>
     <td align="center">
-      <img src="assets/team/randy.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Randy Verdian"/><br/>
-      <strong>Randy Verdian</strong><br/>
-      <em>Team Leader</em>
+      <a href="https://www.linkedin.com/in/randy-verdian/"><img src="assets/team/randy.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Randy Verdian"/></a><br/>
+      <strong><a href="https://www.linkedin.com/in/randy-verdian/">Randy Verdian</a></strong><br/>
+      <em>Leader · Fullstack Developer</em>
     </td>
     <td align="center">
-      <img src="assets/team/althariq.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Muhammad Althariq Fairuz"/><br/>
-      <strong>Muhammad Althariq Fairuz</strong><br/>
-      <em>Member</em>
+      <a href="https://www.linkedin.com/in/muhammad-althariq-fairuz-10503a247/"><img src="assets/team/althariq.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Muhammad Althariq Fairuz"/></a><br/>
+      <strong><a href="https://www.linkedin.com/in/muhammad-althariq-fairuz-10503a247/">Muhammad Althariq Fairuz</a></strong><br/>
+      <em>AI Engineer</em>
     </td>
     <td align="center">
-      <img src="assets/team/olivia.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Olivia Christy Lismanto"/><br/>
-      <strong>Olivia Christy Lismanto</strong><br/>
-      <em>Member</em>
+      <a href="https://www.linkedin.com/in/oliviachristyl/"><img src="assets/team/olivia.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Olivia Christy Lismanto"/></a><br/>
+      <strong><a href="https://www.linkedin.com/in/oliviachristyl/">Olivia Christy Lismanto</a></strong><br/>
+      <em>Product Manager</em>
     </td>
     <td align="center">
-      <img src="assets/team/saad.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Saad Abdul Hakim"/><br/>
-      <strong>Saad Abdul Hakim</strong><br/>
-      <em>Member</em>
+      <a href="https://www.linkedin.com/in/saadabha/"><img src="assets/team/saad.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Saad Abdul Hakim"/></a><br/>
+      <strong><a href="https://www.linkedin.com/in/saadabha/">Saad Abdul Hakim</a></strong><br/>
+      <em>Fullstack Developer</em>
     </td>
     <td align="center">
-      <img src="assets/team/shafiq.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Shafiq Irvansyah"/><br/>
-      <strong>Shafiq Irvansyah</strong><br/>
-      <em>Member</em>
+      <a href="https://www.linkedin.com/in/shafiq-irvansyah/"><img src="assets/team/shafiq.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Shafiq Irvansyah"/></a><br/>
+      <strong><a href="https://www.linkedin.com/in/shafiq-irvansyah/">Shafiq Irvansyah</a></strong><br/>
+      <em>Fullstack Developer</em>
     </td>
   </tr>
 </table>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo -->
-<img src="assets/logo.png" alt="SEAGuard Logo" width="180" />
+<img src="../assets/logo.png" alt="SEAGuard Logo" width="180" />
 
 <h1>SEAGuard</h1>
 
@@ -64,7 +64,7 @@ SEAGuard is available as **two complementary products**:
 
 <!-- Platform Preview -->
 <div align="center">
-  <img src="assets/seaguard-platform.png" alt="SEAGuard Web App" width="700"/>
+  <img src="../assets/seaguard-platform.png" alt="SEAGuard Web App" width="700"/>
   <br/>
   <em>SEAGuard Web Dashboard &amp; Mobile App</em>
 </div>
@@ -103,7 +103,7 @@ SEAGuard is architected as a distributed system with clear separation between th
 
 <!-- Architecture Diagram -->
 <div align="center">
-  <img src="assets/architecture.png" alt="SEAGuard System Architecture" width="700"/>
+  <img src="../assets/architecture.png" alt="SEAGuard System Architecture" width="700"/>
   <br/>
   <em>Figure: SEAGuard System Architecture</em>
 </div>
@@ -138,27 +138,27 @@ Built with dedication by **Team LabtekV** for Borneo Hackwknd.
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/randy-verdian/"><img src="assets/team/randy.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Randy Verdian"/></a><br/>
+      <a href="https://www.linkedin.com/in/randy-verdian/"><img src="../assets/team/randy.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Randy Verdian"/></a><br/>
       <strong><a href="https://www.linkedin.com/in/randy-verdian/">Randy Verdian</a></strong><br/>
       <em>Leader · Fullstack Developer</em>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/muhammad-althariq-fairuz-10503a247/"><img src="assets/team/althariq.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Muhammad Althariq Fairuz"/></a><br/>
+      <a href="https://www.linkedin.com/in/muhammad-althariq-fairuz-10503a247/"><img src="../assets/team/althariq.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Muhammad Althariq Fairuz"/></a><br/>
       <strong><a href="https://www.linkedin.com/in/muhammad-althariq-fairuz-10503a247/">Muhammad Althariq Fairuz</a></strong><br/>
       <em>AI Engineer</em>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/oliviachristyl/"><img src="assets/team/olivia.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Olivia Christy Lismanto"/></a><br/>
+      <a href="https://www.linkedin.com/in/oliviachristyl/"><img src="../assets/team/olivia.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Olivia Christy Lismanto"/></a><br/>
       <strong><a href="https://www.linkedin.com/in/oliviachristyl/">Olivia Christy Lismanto</a></strong><br/>
       <em>Product Manager</em>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/saadabha/"><img src="assets/team/saad.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Saad Abdul Hakim"/></a><br/>
+      <a href="https://www.linkedin.com/in/saadabha/"><img src="../assets/team/saad.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Saad Abdul Hakim"/></a><br/>
       <strong><a href="https://www.linkedin.com/in/saadabha/">Saad Abdul Hakim</a></strong><br/>
       <em>Fullstack Developer</em>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/shafiq-irvansyah/"><img src="assets/team/shafiq.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Shafiq Irvansyah"/></a><br/>
+      <a href="https://www.linkedin.com/in/shafiq-irvansyah/"><img src="../assets/team/shafiq.png" width="100" height="100" style="border-radius:50%; object-fit:cover;" alt="Shafiq Irvansyah"/></a><br/>
       <strong><a href="https://www.linkedin.com/in/shafiq-irvansyah/">Shafiq Irvansyah</a></strong><br/>
       <em>Fullstack Developer</em>
     </td>

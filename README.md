@@ -55,7 +55,7 @@ SEAGuard is available as **two complementary products**:
 
 <!-- Platform Preview -->
 <div align="center">
-  <img src="../.github/assets/preview-web.png" alt="SEAGuard Web Dashboard" width="700"/>
+  <img src="assets/seaguard-platform.png" alt="SEAGuard Web App" width="700"/>
   <br/>
   <em>SEAGuard Web Dashboard &amp; Mobile App</em>
 </div>
@@ -160,5 +160,5 @@ Built with dedication by **Team LabtekV** for Borneo Hackwknd.
 ---
 
 <div align="center">
-  <sub>Made with care for the communities of ASEAN &mdash; Team LabtekV &copy; 2025</sub>
+  <sub>Made with care for the communities of ASEAN &mdash; Team LabtekV &copy; 2026</sub>
 </div>

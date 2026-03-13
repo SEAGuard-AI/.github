@@ -113,7 +113,7 @@ SEAGuard is architected as a distributed system with clear separation between th
 | Component | Technologies | Role |
 |---|---|---|
 | **Backend API** | Node.js, Hono, PostgreSQL, Drizzle ORM | High-performance REST API handling data ingestion, AI prediction, authentication, and real-time monitoring |
-| **AI Models** | LGBM (Light Gradient Boosting Machine) | Binary flood and landslide risk classification using data from GDACS, USGS, and ReliefWeb |
+| **AI Models** | LGBM (Light Gradient Boosting Machine) | AI-based binary classification for flood and landslide risk across all ASEAN countries. |
 | **Web Frontend** | React 18, TypeScript, Vite, Tailwind CSS, TanStack Query, shadcn/ui | Interactive dashboard for risk visualization, alerts, and disaster education |
 | **Mobile App** | React Native, Viro AR, Google Gemini 2.5 Flash, React Native Maps, Google Places API | Location-based emergency support with AR navigation and AI-powered guidance |
 
